@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=Sea Raptor
+WeaponDescriptiveName=Sea Raptor Missile
+WeaponDescription=Fielded to replace both the UGM-101 and UGM-106 anti-shipping missiles, the Sea Raptor retains the Spear's extreme velocity while improving warhead performance to near parity with the larger and heavier Dagger missile. However, the new missile cannot be launched from existing torpedo tubes.

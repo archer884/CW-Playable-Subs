@@ -6,6 +6,7 @@ usn_ssn_narwhal_modern
 usn_ssn_permit_68
 usn_ssn_permit
 usn_ssn_seawolf
+usn_ssn_triton
 usn_ssn_skipjack_68
 usn_ssn_skipjack
 usn_ssn_sturgeon_68
@@ -58,6 +59,7 @@ roc_ssk_hailung
 vnm_ss_kilo
 wp_ssn_akula1
 wp_ssn_akula2
+wp_ssn_vepr
 wp_ssn_alfa
 wp_ssn_alfa2
 wp_ssn_mike

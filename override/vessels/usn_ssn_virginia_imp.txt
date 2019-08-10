@@ -31,6 +31,7 @@ EscapeDepth=600
 
 [Acoustics & Sensors]
 SelfNoise=104
+SelfNoisePerKnot=0.95
 ActiveSonarReflection=25
 ActiveSonarModel=usn_an_bqq_10
 PassiveSonarModel=usn_an_bqq_10
@@ -42,7 +43,7 @@ TowedArrayPosition=-0.075,0.0,-0.619
 
 [Weapon Systems]
 TorpedoTypes=usn_mk48_adcap,usn_mk48_adcap_swimout,usn_moss_2,usn_ugm84
-TorpedoNumbers=30,0,5,10
+TorpedoNumbers=22,8,5,10
 TorpedoTubes=9
 NumberOfWires=8
 TubeConfig=1,1,1,1,1,1,1,1,1

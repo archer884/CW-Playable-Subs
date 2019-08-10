@@ -45,3 +45,4 @@
 <color=Green>Straight of Hormuz (<b>WORLD MAP REQ'D</b>)</color>
 <color=Green>Hudson Bay Incursion (<b>WORLD MAP REQ'D</b>)</color>
 <color=Green>Kim Gone Mad</color>
+<color=Orange>Fear</color>

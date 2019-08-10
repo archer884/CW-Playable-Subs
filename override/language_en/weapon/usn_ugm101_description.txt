@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=Spear
+WeaponDescriptiveName=Spear Missile
+WeaponDescription=A smaller, faster Harpoon replacement intended for salvo launches against light targets.

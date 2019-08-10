@@ -1,0 +1,9 @@
+Image=campaign/images/pact wolfpack 3
+MissionLocation=Norwegian Sea
+Briefing=You're up against one of the most frightening opponents in the history of naval warfare. Pray while you can.
+Briefing=
+Briefing=<b>Primary Objectives:</b>
+Briefing=- Fight
+Briefing=
+Briefing=<b>Secondary Objectives:</b>
+Briefing=- Die like a man

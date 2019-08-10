@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=UGM-118
+WeaponDescriptiveName=UGM-118/Mk51 Mod B
+WeaponDescription=The Mark 51 Mod B torpedo is a lightweight variant of the extraordinarily lethal Mark 51 Hunter/Killer. Fixed at the end of a UGM-118 missile, it makes for a ver nasty way to reach out and touch someone.

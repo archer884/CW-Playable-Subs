@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=Dagger
+WeaponDescriptiveName=Dagger ASM
+WeaponDescription=A development of the Tomahawk, the UGM-106 Dagger is intended to deal with capital ships.

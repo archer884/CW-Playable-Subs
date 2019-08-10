@@ -99,6 +99,8 @@ ind_ushus=USHUS=The USHUS sonar suite is a suite developed by the Defence Resear
 
 usn_an_bqq_10=AN/BQQ-10=This next-generation replacement for the AN/BQQ-5 system uses more advanced algorithms and has significant capability over the previous version.
 
+usn_an_bqq_15=AN/BQQ-15=This incremental improvement of the BQQ-10 employs a learning AI to cancel out ambient noises.
+
 ksm_sonderapparat=SU-Apparat Nibelung=This array was developed in World War II using both passive and active search, and could detect a convoy from one hundred kilometres if conditions were right.
 
 uk_asdic=ASDIC Sonar=This array was one of the first of its kind, using a loud directional noise and measuring the echo to determine the location of hidden submarines.
@@ -144,6 +146,8 @@ usn_tb_16=TB-16=The TB-16 Towed Array greatly increases the range of passive son
 usn_tb_23=TB-23=The TB-23 Thin-Line Towed Array greatly increases the range of passive sonar. It is most effective at slower speeds but suffers from noise saturation above 10 Kts.\n \nThe Towed Array also negates the stern blind arc that is caused by ownship noise.
 
 usn_tb_29=TB-29=The TB-29 Thin-Line Towed Array greatly increases the range of passive sonar. It is most effective at slower speeds but suffers from noise saturation above 10 Kts.\n \nThe Towed Array also negates the stern blind arc that is caused by ownship noise.
+
+usn_tb_45=TB-45=The TB-45 Thin-Line Towed Array greatly increases the range of passive sonar. It is most effective at slower speeds, but this model suffers less than related models due to the use of learning algorithms to cancel ambient noise.\n \nTowed arrays also negate the stern blind arc caused by ownship noise.
 
 usn_sqs_26=SQS-26=This is a very powerful low-frequency array introduced by the US Navy in the 1960's, intended for convergence zone operation.
 

@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=FMOSS
+WeaponDescriptiveName=Fast IUUV Mobile Submarine Simulator
+WeaponDescription=The FMOSS intelligent mobile submarine simulator is significantly larger and more powerful than either the MOSS or Advanced MOSS decoys. Its primary advantage lies in greater range and loiter time, and in the fact that it can run fast enough to faithfully simulate USS Triton. Unfortunately, since it is nearly the size of a MK 48 torpedo, use is limited to Triton- and Seawolf-class submarines.

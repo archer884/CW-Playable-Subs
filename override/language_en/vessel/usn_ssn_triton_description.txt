@@ -1,0 +1,10 @@
+[Unit Reference]
+ShipClass=Triton
+Description=Triton Class SSN
+History=Self Noise Rating: 98 dB\nEscape Depth: 1200 ft\n\nSSN-986 Triton is the fifth vessel of the United States Navy, and the third submarine, to bear the name of the Greek god Triton. Her forebear, the nuclear radar picket submarine SSRN-586, was the first submarine to complete a submerged circumnavigation of the globe. This new Triton, like her ancestor, serves as the harbinger of a new era in submarine design and capability.\n\nTriton incorporates several advancements in power and quieting, including a high temperature gas cooled reactor, a permanent electric drive system, digital noise cancelling, and an adaptive vectored pumpjet. Heavy armament, coupled with an AI-enabled sonar with machine learning capability, makes Triton not only stealthy but extraordinarily deadly.\n\nOne drawback is that Triton's modular missile batteries are only equipped to launch the new Sea Raptor anti-shipping missile, which means that the Tomahawk Land Attack Missile must be launched horizontally from her 710mm torpedo tubes. A new land attack solution is in development.
+// Permanent electric drive is a real thing; I'm not clear how or by how much it makes a sub quieter. I'm also imagining blades that change shape as the boat's power level changes, so they cut down on cavitation and improve power delivery across the power band. Not as sure about the idea of two reactors to make things quieter, but it sounds nice--and the lead coolant thing is real, and essential if you want to do 49 knots. Lastly, the boat's one of the few USN vessels with a double hull, used to grant it more resistance to attack and greater test depth.
+
+[Player Ship Instances]
+PlayerClassNames=Triton, Enterprise, Mustang, John Bell Hood
+
+PlayerClassHullNumbers=SSN-986,SSN-1701,SSN-302,SSN-272

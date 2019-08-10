@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=Mk54
+WeaponDescriptiveName=Mark 54 SRT
+WeaponDescription=The Mk54 supercavitating torpedo is designed engage targets rapidly at long range. With a smaller warhead than the Mk51, a very noisy propulsion system, and no room for wire guidance, the Mk54 is best used as a standoff fire-and-forget weapon against very dangerous targets.

@@ -20,6 +20,6 @@ RequiresWeapon=
 NumberOfEnemyUnits=1-1,1-3
 CombatBehaviour=DEFENSIVE,OFFENSIVE
 EnemyUnitMissionCritical=TRUE,FALSE
-EnemyShipClasses=wp_ssn_akula1|wp_ssn_akula2|wp_ssn_sierra|wp_ssn_victor3|wp_ssgn_oscar|wp_ssgn_yasen,fra_ssn_rubis
+EnemyShipClasses=wp_ssn_akula1|wp_ssn_akula2|wp_ssn_vepr|wp_ssn_sierra|wp_ssn_victor3|wp_ssgn_oscar|wp_ssgn_yasen,fra_ssn_rubis
 EventWin=SSN_WOLFPACK_win
 EventFail=SSN_WOLFPACK_fail

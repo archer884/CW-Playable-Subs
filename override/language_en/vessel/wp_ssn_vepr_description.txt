@@ -1,0 +1,8 @@
+[Unit Reference]
+ShipClass=Vepr
+Description=Vepr Class SSN
+History=Self Noise Rating: 101 dB\nEscape Depth: 800 ft\n\nConsidered by Western observers to be a response to USS Triton, Project 741N and the other Vepr-class submarines demand respect from any opponent. Apparently a development of the Akula, the "Boar" features the Yasen's fire control improvements and the ability to launch the improved Ev. III UGST.\n\nUnlike the Yasen, the Vepr is a pure hunter/killer. Approach with caution.
+
+[Player Ship Instances]
+PlayerClassNames=Vepr, Kocatko, Chernobyl, Belorussian, Petrograd
+PlayerClassHullNumbers=K-741, K-743, K-747, K-748, K-751

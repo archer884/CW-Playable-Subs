@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=UGST-3
+WeaponDescriptiveName=UGST Torpedo
+WeaponDescription=The EV-III is a heavy deep-water torpedo with a range of 55 km, a slight reduction versus the previous UGST's 60 km range. While this may prove a problem in wake-homing mode, it is more than compensated by improved run speed, which is essential in engaging newer NATO submarines.
