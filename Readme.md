@@ -246,6 +246,12 @@ Since the game is not designed for playable surface ships, we've had to make som
 ---
 ## Sonar Signature List Sorting
 
+**BIG CHANGE** from the original PBS: this version of the mod cleans up sonar contact lists so that they don't take for freaking ever to scroll through. It goes biologics -> enemy subs -> enemy surface combatants -> transports and merchantmen. Friendlies do NOT appear in the list.
+
+The original sorting is kept for red force campaigns and some missions. I think. I dunno. Whatever.
+
+**Original documentation follows:*
+
 Sonar signatures have been reworked. You will see the entire vessel list when playing single missions, but the vanilla campaign signature libraries have been left as they were, since none of the new subs in this mod will appear in the campaigns. For single missions and modded campaigns, the signature list is sorted as follows:
 
 * **Scrolling Right:**
