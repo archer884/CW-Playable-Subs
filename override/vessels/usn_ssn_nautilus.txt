@@ -32,6 +32,7 @@ PeriscopeDepthInFeet=39
 
 [Acoustics & Sensors]
 SelfNoise=145
+SelfNoisePerKnot=1.05
 ActiveSonarReflection=30
 ActiveSonarModel=usn_an_bqs_4
 PassiveSonarModel=usn_an_bqr_2

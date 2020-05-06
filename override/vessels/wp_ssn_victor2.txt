@@ -32,6 +32,7 @@ PeriscopeDepthInFeet=38
 
 [Acoustics & Sensors]
 SelfNoise=136
+SelfNoisePerKnot=1.05
 ActiveSonarReflection=25
 ActiveSonarModel=wp_shark_teeth
 PassiveSonarModel=wp_shark_teeth
