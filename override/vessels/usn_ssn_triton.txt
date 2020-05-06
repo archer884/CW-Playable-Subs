@@ -45,8 +45,8 @@ RADARSignature=SMALL
 TowedArrayPosition=-0.075,0.0,-0.619
 
 [Weapon Systems]
-TorpedoTypes=usn_mk51,usn_fmoss,usn_tlam
-TorpedoNumbers=44,8,8
+TorpedoTypes=usn_mk51,usn_mk48_adcap,usn_fmoss,usn_tlam
+TorpedoNumbers=24,20,8,8
 TorpedoTubes=13
 NumberOfWires=12
 TubeConfig=1,1,1,1,1,1,1,1,1,1,1,1,1
