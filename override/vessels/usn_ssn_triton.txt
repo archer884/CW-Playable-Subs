@@ -34,7 +34,7 @@ EscapeDepth=1200
 
 [Acoustics & Sensors]
 SelfNoise=98
-SelfNoisePerKnot=0.45
+SelfNoisePerKnot=0.85
 ActiveSonarReflection=18
 ActiveSonarModel=usn_an_bqq_15
 PassiveSonarModel=usn_an_bqq_15
@@ -46,15 +46,15 @@ TowedArrayPosition=-0.075,0.0,-0.619
 
 [Weapon Systems]
 TorpedoTypes=usn_mk51,usn_mk48_adcap,usn_fmoss,usn_tlam
-TorpedoNumbers=24,20,8,8
-TorpedoTubes=13
-NumberOfWires=12
-TubeConfig=1,1,1,1,1,1,1,1,1,1,1,1,1
+TorpedoNumbers=26,10,6,8
+TorpedoTubes=9
+NumberOfWires=8
+TubeConfig=1,1,1,1,1,1,1,1,1
 TorpedoTubeSize=28
 TubeReloadTime=15
 
 VLSTorpedoTypes=usn_ugm117
-VLSTorpedoNumbers=32
+VLSTorpedoNumbers=28
 VLSMaxDepthToFire=410
 VLSMaxSpeedToFire=30
 
@@ -143,67 +143,43 @@ MeshRotation=0,340,0
 TorpedoSpawnPosition=-0.0828,0.0045,0.56
 TorpedoEffectPosition=-0.0828,0.0045,0.56
 
-//Tube 2
+//Tube 3
 MeshPosition=-0.0807,-0.016,0.548
 MeshRotation=0,340,0
 TorpedoSpawnPosition=-0.0807,-0.016,0.548
 TorpedoEffectPosition=-0.0807,-0.016,0.548
 
-//Tube 3
-MeshPosition=-0.0727,-0.039,0.53
-MeshRotation=0,340,0
-TorpedoSpawnPosition=-0.0727,-0.039,0.53
-TorpedoEffectPosition=-0.0727,-0.039,0.53
-
-//Tube 4
-MeshPosition=-0.0727,-0.039,0.53
-MeshRotation=0,340,0
-TorpedoSpawnPosition=-0.0727,-0.039,0.53
-TorpedoEffectPosition=-0.0727,-0.039,0.53
-
 //Tube 5
-MeshPosition=-0.061,-0.0584,0.523
+MeshPosition=-0.0727,-0.039,0.53
 MeshRotation=0,340,0
-TorpedoSpawnPosition=-0.061,-0.0584,0.523
-TorpedoEffectPosition=-0.061,-0.0584,0.523
-
-//Tube 6
-MeshPosition=-0.061,-0.0584,0.523
-MeshRotation=0,340,0
-TorpedoSpawnPosition=-0.061,-0.0584,0.523
-TorpedoEffectPosition=-0.061,-0.0584,0.523
+TorpedoSpawnPosition=-0.0727,-0.039,0.53
+TorpedoEffectPosition=-0.0727,-0.039,0.53
 
 //Tube 7
+MeshPosition=-0.061,-0.0584,0.523
+MeshRotation=0,340,0
+TorpedoSpawnPosition=-0.061,-0.0584,0.523
+TorpedoEffectPosition=-0.061,-0.0584,0.523
+
+//Tube 2
 MeshPosition=0.0828,0.0045,0.56
 MeshRotation=0,20,0
 TorpedoSpawnPosition=0.0828,0.0045,0.56
 TorpedoEffectPosition=0.0828,0.0045,0.56
 
-//Tube 8
+//Tube 4
 MeshPosition=0.0807,-0.016,0.548
 MeshRotation=0,20,0
 TorpedoSpawnPosition=0.0807,-0.016,0.548
 TorpedoEffectPosition=0.0807,-0.016,0.548
 
-//Tube 9
+//Tube 6
 MeshPosition=0.0727,-0.039,0.53
 MeshRotation=0,20,0
 TorpedoSpawnPosition=0.0727,-0.039,0.53
 TorpedoEffectPosition=0.0727,-0.039,0.53
 
-//Tube 10
-MeshPosition=0.0727,-0.039,0.53
-MeshRotation=0,20,0
-TorpedoSpawnPosition=0.0727,-0.039,0.53
-TorpedoEffectPosition=0.0727,-0.039,0.53
-
-//Tube 11
-MeshPosition=0.061,-0.0584,0.523
-MeshRotation=0,20,0
-TorpedoSpawnPosition=0.061,-0.0584,0.523
-TorpedoEffectPosition=0.061,-0.0584,0.523
-
-//Tube 12
+//Tube 8
 MeshPosition=0.061,-0.0584,0.523
 MeshRotation=0,20,0
 TorpedoSpawnPosition=0.061,-0.0584,0.523
