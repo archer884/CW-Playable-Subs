@@ -58,7 +58,7 @@ VLSTorpedoNumbers=32
 VLSMaxDepthToFire=410
 VLSMaxSpeedToFire=30
 
-NoisemakerName=usn_noisemaker
+NoisemakerName=usn_noisemaker_xl
 NumberOfNoisemakers=30
 NoisemakerReloadTime=8
 

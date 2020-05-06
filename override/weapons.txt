@@ -5238,6 +5238,22 @@ MeshPosition=0,0,0
 CountermeasureParticle=countermeasures/assets/noisemaker_fx
 [/Model]
 
+CountermeasureName=USN Noisemaker
+CountermeasureObjectReference=usn_noisemaker_xl
+CountermeasureType=NOISEMAKER
+Lifetime=120
+SinkRate=0.005
+NoiseStrength=230
+CountermeasureDescription=XL USN noisemaker countermeasure.
+[Model]
+ModelFile=countermeasures/assets/noisemaker
+Material=weapons/assets/usn_mk48_mat
+MaterialTextures=weapons/assets/usn_mk48_tx
+MeshPosition=0,0,0
+MeshCountermeasure=Noisemaker
+MeshPosition=0,0,0
+CountermeasureParticle=countermeasures/assets/noisemaker_fx
+[/Model]
 
 CountermeasureName=WP Noisemaker
 CountermeasureObjectReference=wp_noisemaker
