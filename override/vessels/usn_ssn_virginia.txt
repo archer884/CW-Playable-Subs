@@ -31,6 +31,7 @@ EscapeDepth=600
 
 [Acoustics & Sensors]
 SelfNoise=107
+SelfNoisePerKnot=0.95
 ActiveSonarReflection=30
 ActiveSonarModel=usn_an_bqq_10
 PassiveSonarModel=usn_an_bqq_10
