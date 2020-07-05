@@ -54,9 +54,9 @@ TorpedoTubeSize=28
 TubeReloadTime=15
 
 VLSTorpedoTypes=usn_ugm117
-VLSTorpedoNumbers=28
+VLSTorpedoNumbers=36
 VLSMaxDepthToFire=410
-VLSMaxSpeedToFire=30
+VLSMaxSpeedToFire=20
 
 NoisemakerName=usn_noisemaker_xl
 NumberOfNoisemakers=30
@@ -187,7 +187,7 @@ TorpedoEffectPosition=0.061,-0.0584,0.523
 
 //VLS Launch Position
 MeshPosition=0,0.0785,0.172
-MeshRotation=-135,0,0
+MeshRotation=-90,0,0
 TorpedoSpawnPosition=0,0.0785,0.172
 TorpedoEffectPosition=0,0.0785,0.172
 
