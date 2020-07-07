@@ -12,7 +12,7 @@ HullNumbers=FALSE
 
 [Movement]
 SurfaceSpeed=15
-SubmergedSpeed=28
+SubmergedSpeed=33
 TelegraphSpeeds=-5,0,5,10,15,20,28
 AccelerationRate=0.24
 DecelerationRate=0.08
