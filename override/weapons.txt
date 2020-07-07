@@ -187,6 +187,7 @@ SensorAngles=60,60
 SensorRange=1200
 WeaponNoiseValues=105,105
 MaxPitchAngle=50
+MaxDepth=1800
 HomeSettings=FALSE
 AttackSettings=STRAIGHT,LEFT,RIGHT
 DepthSettings=LEVEL,SHALLOW,DEEP
