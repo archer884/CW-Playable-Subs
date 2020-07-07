@@ -146,7 +146,7 @@ AttackSettings=STRAIGHT,LEFT,RIGHT
 DepthSettings=LEVEL,SHALLOW,DEEP
 MinCameraDistance=0.5
 ResupplyTime=8
-MaxDepth=3200
+MaxDepth=3500
 [Model]
 ModelFile=weapons/assets/usn_mk48
 Material=weapons/assets/usn_mk48_mat
