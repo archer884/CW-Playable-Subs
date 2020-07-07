@@ -1,4 +1,4 @@
 [Weapon Reference]
-WeaponName=IXT
+WeaponName=IX
 WeaponDescriptiveName=IX Torpedo
 WeaponDescription=The IX interceptor is intended to improve survivability of older hulls in the modern combat environment by engaging and destroying enemy heavyweight torpedoes.
