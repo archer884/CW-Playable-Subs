@@ -2,14 +2,14 @@ Designation=SSN
 ShipType=SUBMARINE
 PlayerHUD=hud/default
 
-Year=2025
+Year=2031
 OpForceRegions=CHINA_SEA_PLAN,NORWEGIAN_SEA_PACT
 
-Length=119
+Length=112
 Beam=11
 HullHeight=0.09
-Displacement=11275
-Crew=73
+Displacement=10275
+Crew=61
 Range=10000
 HullNumbers=FALSE
 
