@@ -1,1 +1,1 @@
-Copy-Item -Recurse -Force './override' '../ColdWaters_Data/StreamingAssets'
+copy-changes './override' '../ColdWaters_Data/StreamingAssets/override' --force
