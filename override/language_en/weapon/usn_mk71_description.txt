@@ -1,0 +1,4 @@
+[Weapon Reference]
+WeaponName=MK 71
+WeaponDescriptiveName=Mark 71 H/K Torpedo
+WeaponDescription=The Mark 71 Hunter/Killer torpedo is an all new, super heavyweight torpedo. Larger and heavier than the MK 48, the MK 71 boasts improved range, speed, and maneuverability over the MK 48 thanks to its greater fuel load and a powerful, vectoring duct.\n\nSheer size is the MK 71's main drawback, with the torpedo having been expressly designed to swim free from Triton's cavernous 710mm tubes.
