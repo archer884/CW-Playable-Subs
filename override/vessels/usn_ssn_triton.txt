@@ -59,7 +59,7 @@ VLSMaxDepthToFire=410
 VLSMaxSpeedToFire=20
 
 NoisemakerName=usn_noisemaker_xl
-NumberOfNoisemakers=15
+NumberOfNoisemakers=18
 NoisemakerReloadTime=8
 
 [Subsystems]
