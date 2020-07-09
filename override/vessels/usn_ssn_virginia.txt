@@ -140,17 +140,17 @@ MeshRotation=0,340,0
 TorpedoSpawnPosition=-0.0828,0.0045,0.56
 TorpedoEffectPosition=-0.0828,0.0045,0.56
 
-//Tube 2
-MeshPosition=0.0828,0.0045,0.56
-MeshRotation=0,20,0
-TorpedoSpawnPosition=0.0828,0.0045,0.56
-TorpedoEffectPosition=0.0828,0.0045,0.56
-
 //Tube 3
 MeshPosition=-0.0807,-0.016,0.548
 MeshRotation=0,340,0
 TorpedoSpawnPosition=-0.0807,-0.016,0.548
 TorpedoEffectPosition=-0.0807,-0.016,0.548
+
+//Tube 2
+MeshPosition=0.0828,0.0045,0.56
+MeshRotation=0,20,0
+TorpedoSpawnPosition=0.0828,0.0045,0.56
+TorpedoEffectPosition=0.0828,0.0045,0.56
 
 //Tube 4
 MeshPosition=0.0807,-0.016,0.548
