@@ -1,0 +1,6 @@
+{
+  "name": "<color=Orange>Red Shadow</color>",
+  "image": "campaign/images/nato naval 1",
+  "missionLocation": "G-I-UK Gap. 100 miles due North of Tórshavn",
+  "briefing": "As a US Carrier Battle Group heads to Bergen, their escorts report an ESM contact.\n\n<b>Primary Objectives:</b>\n- Identify and engage the ESM contact\n\n<b>Secondary Objectives:</b>\n- Avoid detection\n\n\n\n\n(Mission Submitted By III./JG 2 Oberst. Included with permission.)\n"
+}

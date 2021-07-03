@@ -1,0 +1,6 @@
+{
+  "name": "<color=White>Ambush</color>",
+  "image": "campaign/images/pact wolfpack 4",
+  "missionLocation": "In the Denmark Strait",
+  "briefing": "8 NOV 1984\nAt least one NATO attack submarine is reported to be operating in the area. Proceed with caution.\n\n<b>Primary Objective:</b>\n- Fight a one-on-one duel with an enemy SSN\n"
+}

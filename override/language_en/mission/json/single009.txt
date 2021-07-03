@@ -1,0 +1,6 @@
+{
+  "name": "<color=Orange>The Giants</color>",
+  "image": "campaign/images/pact wolfpack 3",
+  "missionLocation": "Norwegian Sea",
+  "briefing": "Your government is interested in testing the capabilities of its new hyper-modern attack submarine against a worthy enemy.\n\nYou are stalking a nearby enemy sub with capabilities similar to your own. Teach them a lesson!\n\n<b>Primary Objectives:</b>\n- Sink the enemy submarine.\n\n<b>Secondary Objectives:</b>\n- Avoid Detection\n- Survive\n"
+}

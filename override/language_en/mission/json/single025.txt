@@ -1,0 +1,6 @@
+{
+  "name": "<color=Orange>Swedish Intervention</color>",
+  "image": "campaign/images/pact landing sunk",
+  "missionLocation": "300 miles due West of Stockholm. Baltic Sea.",
+  "briefing": "Satellite has confirmed that a Soviet invasion fleet has set sail from Leningrad, possibly to attempt an amphibious assault on Stockholm.\n\n<b>Primary Objectives:</b>\n- Prevent the Soviet amphibious assault\n\n<b>Secondary Objectives:</b>\n- Engage main vessels of the escort fleet\n\n\n\n\n(Mission Submitted By III./JG 2 Oberst. Included with permission.)\n"
+}

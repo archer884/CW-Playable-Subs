@@ -1,0 +1,6 @@
+{
+  "name": "<color=White>High Noon</color>",
+  "image": "campaign/images/pact specops",
+  "missionLocation": "In the Luzon Strait",
+  "briefing": "21 SEP 2000\nSeveral hours ago, the PLAN launched a series of cruise missile and special forces attacks on our naval bases in Sasebo, Okinawa and Subic Bay. Nav Ops suspects a similar strike using submarines is planned for Guam, our last remaining base in the region.\n\n<b>Primary Objective:</b>\n- Sink the enemy submarines\n\n<b>Secondary Objective:</b>\n- Avoid collateral damage\n"
+}

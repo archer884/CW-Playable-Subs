@@ -1,0 +1,6 @@
+{
+  "name": "<color=Orange>Roaring Lions</color>",
+  "image": "campaign/images/nato carrier loss",
+  "missionLocation": "Atlantic Sea. 4000 miles North-East from Cuba.",
+  "briefing": "The USS Essex has been torpedoed by a Soviet submarine. All methods of negotiation have failed. You are to consider all Soviet vessels hostile. Weapons free.\n\n<b>Primary Objectives:</b>\n- Sink the main vessels of the transport fleet\n\n<b>Secondary Objectives:</b>\n- Sink the escort vessels of the transport fleet\n\n\n\n(Mission Submitted By III./JG 2 Oberst. Included with permission.)\n"
+}

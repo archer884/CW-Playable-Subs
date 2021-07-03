@@ -1,0 +1,6 @@
+{
+  "name": "<color=Orange>Earn Your Keep</color>",
+  "image": "campaign/images/_ROROs coming in high seas",
+  "missionLocation": "Atlantic Ocean",
+  "briefing": "After several uneventful days, sonar reports a lone contact.\n\n<b>Primary Objectives:</b>\n- Sink all contacts\n\n(It could be <b>ANYTHING</b>, including neutrals!)\n\n\n\n\n\n\n(Mission Submitted By Ramius. Included with permission.)\n"
+}

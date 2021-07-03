@@ -1,0 +1,6 @@
+{
+  "name": "<color=White>Cornered</color>",
+  "image": "campaign/images/pact wolfpack 3",
+  "missionLocation": "In the Denmark Strait",
+  "briefing": "14 NOV 1984\nA NATO ASW patrol has pursued you into the Denmark Strait. Now it is time to go on the offensive.\n\n<b>Primary Objective:</b>\n- Sink enemy escorts\n"
+}

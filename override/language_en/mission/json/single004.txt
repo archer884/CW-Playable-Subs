@@ -1,0 +1,6 @@
+{
+  "name": "<color=Red>The Duel - 1984 (RUS)</color>",
+  "image": "campaign/images/nato submarine",
+  "missionLocation": "East of Iceland, in the Norwegian Sea",
+  "briefing": "After several uneventful days, sonar reports a lone contact.\n\n<b>Primary Objectives:</b>\n- Sink the enemy submarine.\n\n(1984 Version)\n"
+}

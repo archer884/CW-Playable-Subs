@@ -1,0 +1,6 @@
+{
+  "name": "<color=Orange>The Great Escape</color>",
+  "image": "campaign/images/pact naval 1",
+  "missionLocation": "Central Norwegian Sea",
+  "briefing": "You have been shadowing and observing a major top secret enemy exercise involving their new carrier battlegroup. Unfortunately, your night shift commanding officer has just made a mistake and the enemy now knows you're nearby and is hunting you with extreme prejudice.\n\n<b>Primary Objective:</b>\n- Survive\n\n<b>Secondary Objectives:</b>\n- Sink the Enemy Carrier\n- Avoid Neutral Shipping\n"
+}

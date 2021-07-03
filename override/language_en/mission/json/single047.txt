@@ -1,0 +1,6 @@
+{
+  "name": "<color=Green>Kim Gone Mad</color>",
+  "image": "campaign/images/kimgonemad.jpg",
+  "missionLocation": "Sea Of Japan",
+  "briefing": "\nKim Jong-un has declared that he intends to launch a SLBM at Japan within the next 4 hours.\n\n<b>Primary Objectives:</b>\n- Sink the hostile missile submarine.\n\n<b>Secondary Objectives:</b>\n- Survive\n"
+}

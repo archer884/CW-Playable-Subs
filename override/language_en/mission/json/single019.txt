@@ -1,0 +1,6 @@
+{
+  "name": "<color=Orange>The Sole Seeker</color>",
+  "image": "campaign/images/pact naval 1",
+  "missionLocation": "Norwegian Sea, 2000 miles due East of Iceland.",
+  "briefing": "Prevent the Soviet fleet from launching an amphibious assault on Iceland.\n\n<b>Primary Objectives:</b>\n- Sink the main vessels of the High Sea Fleet\n\n<b>Secondary Objectives:</b>\n- Sink the transport Ships of the amphibious assault fleet\n\n\n\n\n\n(Mission Submitted By III./JG 2 Oberst. Included with permission.)\n"
+}

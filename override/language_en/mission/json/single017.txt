@@ -1,0 +1,6 @@
+{
+  "name": "<color=White>Strike From The Sea</color>",
+  "image": "campaign/images/nato missile land attack",
+  "missionLocation": "Paracel Islands, South China Sea",
+  "briefing": "27 MAR 1999\nPerform a strike with cruise missiles to deliver a crushing blow deep in the PRC's backyard.\n\n<b>Primary Objective:</b>\n- Add 8 TLAM missiles to stores\n- Fire 8 TLAMs into the deployment zone\n\n<b>Secondary Objective:</b>\n- Engage enemy warships\n"
+}

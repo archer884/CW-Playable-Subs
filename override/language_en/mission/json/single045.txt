@@ -1,0 +1,6 @@
+{
+  "name": "<color=Green>Straight of Hormuz (<b>WORLD MAP REQ'D</b>)</color>",
+  "image": "campaign/images/hormuz.jpg",
+  "missionLocation": "Straight of Hormuz",
+  "briefing": "\nIran have been targeting neutral shipping in the area over the past few weeks. They have now sent some rented Kilo Class SSKs to sea and are thought to be trying to sink neutral shipping in the straights to close it.\n\n<b>Primary Objectives:</b>\n- Sink all hostile submarines\n\n<b>Secondary Objectives:</b>\n- Survive\n"
+}

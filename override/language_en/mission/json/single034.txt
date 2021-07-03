@@ -1,0 +1,6 @@
+{
+  "name": "<color=White>Convoy Calamity</color>",
+  "image": "campaign/images/pact wolfpack 1",
+  "missionLocation": "In the North Atlantic",
+  "briefing": "18 OCT 1984\nAfter successfully breaking out into the North Atlantic your hunt for NATO convoys begins.\n\n<b>Primary Objective:</b>\n- Sink enemy transport ships\n\n<b>Secondary Objective:</b>\n- Sink enemy escorts\n"
+}

@@ -1,1 +1,1 @@
-copy-changes './override' '../ColdWaters_Data/StreamingAssets/override' --force
+copy-changes './override' 'D:\Games\steamapps\common\Cold Waters\ColdWaters_Data\StreamingAssets\override' --force

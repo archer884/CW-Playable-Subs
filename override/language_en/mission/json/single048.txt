@@ -1,0 +1,6 @@
+{
+  "name": "<color=Orange>Fear</color>",
+  "image": "campaign/images/pact wolfpack 3",
+  "missionLocation": "Norwegian Sea",
+  "briefing": "You're up against one of the most frightening opponents in the history of naval warfare. Pray while you can.\n\n<b>Primary Objectives:</b>\n- Fight\n\n<b>Secondary Objectives:</b>\n- Die like a man\n"
+}

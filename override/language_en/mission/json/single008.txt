@@ -1,0 +1,6 @@
+{
+  "name": "<color=Green>The Escape of Red October</color>",
+  "image": "campaign/images/pact ssbn",
+  "missionLocation": "Near the Iceland coast",
+  "briefing": "You are commanding an experimental Typhoon class SSBN and have decided to defect to the United States. Your countrymen are after you. Run, or fight.\n\n<b>Primary Objectives:</b>\n- Survive\n\n<b>SPECIAL NOTE:</b>\nThis mission does not have a specific goal programmed in. You can either run to the edge of the map without getting destroyed, or fight the pursuing fleet - the choice is yours. You can consider the mission a success if you survive until you reach the edge of the map, or when you destroy the Soviet fleet.\n"
+}

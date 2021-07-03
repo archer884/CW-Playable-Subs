@@ -1,0 +1,6 @@
+{
+  "name": "<color=White>Territorial Dispute</color>",
+  "image": "campaign/images/plan wolfpack 3",
+  "missionLocation": "Near the Paracel Islands",
+  "briefing": "7 AUG 2000\nUS naval forces continue to challenge the exclusion zone around the Paracel Islands. Weapons free, you are cleared to engage any US naval vessels in the area without warning.\n\n<b>Primary Objective:</b>\n- Sink enemy warships\n"
+}

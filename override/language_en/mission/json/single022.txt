@@ -1,0 +1,6 @@
+{
+  "name": "<color=Orange>Coiled Viper</color>",
+  "image": "campaign/images/pact landing sunk",
+  "missionLocation": "Norwegian Sea. 200 miles due West of Narvik.",
+  "briefing": "Soviet transport fleet is headed to Narvik. As you silently make your approach, sonar reports a surface contact.\n\n<b>Primary Objectives:</b>\n- Prevent the transport Fleet from arriving in Narvik\n\n<b>Secondary Objectives:</b>\n- Engage and Neutralize the Soviet escort fleet\n\n\n\n\n(Mission Submitted By III./JG 2 Oberst. Included with permission.)\n"
+}

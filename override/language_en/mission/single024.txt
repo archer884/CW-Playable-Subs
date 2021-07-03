@@ -1,5 +1,5 @@
 Image=campaign/images/nato naval 1
-MissionLocation=G-I-UK Gap. 100 miles due North of Tórshavn
+MissionLocation=G-I-UK Gap. 100 miles due North of TÃ³rshavn
 Briefing=As a US Carrier Battle Group heads to Bergen, their escorts report an ESM contact.
 Briefing=
 Briefing=<b>Primary Objectives:</b>

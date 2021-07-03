@@ -1,0 +1,6 @@
+{
+  "name": "<color=Orange>Thundering Storm</color>",
+  "image": "campaign/images/sea rescue 1",
+  "missionLocation": "Black Sea. 20 miles due South of Sevastopol.",
+  "briefing": "The USS Yorktown has collided with the Soviet frigate Bezzavetny and sank after a brutal conflict. As you approach the wreck for rescue operations, sonar reports an unusual contact.\n\n<b>Primary Objectives:</b>\n- Sink the main vessels of the Soviet fleet responsible for sinking the USS Yorktown\n\n<b>Secondary Objectives:</b>\n- Avoid Detection\n- Survive\n\n(Mission Submitted By III./JG 2 Oberst. Included with permission.)\n"
+}

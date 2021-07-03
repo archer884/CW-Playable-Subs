@@ -1,0 +1,6 @@
+{
+  "name": "<color=White>Action In The North Atlantic</color>",
+  "image": "campaign/images/pact warship tender 1",
+  "missionLocation": "West of Iceland",
+  "briefing": "Your orders are to intercept a replenishment force suspected to be operating somewhere in the North Atlantic, West of Iceland, where they are supporting aggressive Soviet anti-convoy operations. After several uneventful days spent searching, sonar reports a contact.\n\n<b>Primary Objectives:</b>\n- Locate and sink the tenders\n\n<b>Secondary Objectives:</b>\n- Locate and sink any escorting warships\n"
+}

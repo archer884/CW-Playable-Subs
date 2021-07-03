@@ -1,0 +1,6 @@
+{
+  "name": "<color=White>Foreign Trade</color>",
+  "image": "campaign/images/nato convoy",
+  "missionLocation": "Near Taiwan",
+  "briefing": "24 DEC 2000\nA US convoy is en route to Taiwan to deliver military supplies and equipment. You orders are to prevent the transports from reaching their destination.\n\n<b>Primary Objective:</b>\n- Sink enemy transports\n\n<b>Secondary Objective:</b>\n- Sink enemy escorts\n"
+}

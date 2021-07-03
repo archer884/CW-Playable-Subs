@@ -1,0 +1,6 @@
+{
+  "name": "<color=White>Iron Coffins</color>",
+  "image": "campaign/images/pact wolfpack 2",
+  "missionLocation": "GIUK Gap",
+  "briefing": "A massive Oscar-class cruise missile submarine is attempting to sneak past NATO ASW barrier patrols and escape into the North Atlantic convoy routes. It likely has a potent attack submarine escort, so don't be reckless.\n\n<b>Primary Objectives:</b>\n- Locate and sink the Oscar\n\n<b>Secondary Objectives:</b>\n- Locate and sink any escorting submarines\n"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "<color=Red>The Hunted (RUS)</color>",
+  "image": "campaign/images/pact ssbn 2",
+  "missionLocation": "In the North Barents Sea",
+  "briefing": "Your SSBN is being hunted by NATO submarines. Eliminate them.\n\n<b>Primary Objectives:</b>\n- Destroy all NATO submarines\n\n<b>Secondary Objectives:</b>\n- Survive\n"
+}

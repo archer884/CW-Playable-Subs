@@ -1,0 +1,6 @@
+{
+  "name": "<color=Orange>Creeping Hunter</color>",
+  "image": "campaign/images/nato submarine",
+  "missionLocation": "Denmark Strait. 200 miles due North of Reykjavik.",
+  "briefing": "You are attempting to break through the Denmark Strait when sonar reports a contact.\n\n<b>Primary Objectives:</b>\n- Identify and neutralize the contact\n\n<b>Secondary Objectives:</b>\n- Break through the Denmark Strait\n\n\n\n\n(Mission Submitted By III./JG 2 Oberst. Included with permission.)\n"
+}

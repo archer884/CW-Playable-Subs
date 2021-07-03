@@ -1,0 +1,6 @@
+{
+  "name": "<color=White>Junks On Patrol</color>",
+  "image": "campaign/images/plan reinforcements",
+  "missionLocation": "In the Taiwan Straits",
+  "briefing": "5 JUN 2000\nYou are to engage and destroy enemy shipping. Look out for civilian traffic.\n\n<b>Primary Objective:</b>\n- Sink the freighters\n\n<b>Secondary Objective:</b>\n- Engage enemy warships\n"
+}

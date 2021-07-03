@@ -1,0 +1,6 @@
+{
+  "name": "<color=White>The Bastion Gambit</color>",
+  "image": "campaign/images/pact ssbn 2",
+  "missionLocation": "In the polar region",
+  "briefing": "Satellite data has revealed that a Soviet boomer is lurking deep within its bastion, where it lies protected by layers upon layers of surface warships and hunter-killer subs. You must penetrate the bastion defences, find that boomer, and sink it.\n\n<b>Primary Objectives:</b>\n- Locate and sink any SSBNs\n\n<b>Secondary Objectives:</b>\n- Locate and sink any escorting submarines\n"
+}

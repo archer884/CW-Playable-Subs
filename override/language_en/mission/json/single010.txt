@@ -1,0 +1,6 @@
+{
+  "name": "<color=White>In The Presence Of Wolves</color>",
+  "image": "campaign/images/pact wolfpack 4",
+  "missionLocation": "Near the Faeroes",
+  "briefing": "On a routine barrier patrol, you make contact with a wolfpack of diesel-electric subs trying to break out into the Western Approaches\n\n<b>Primary Objectives:</b>\n- Sink the enemy submarines\n"
+}

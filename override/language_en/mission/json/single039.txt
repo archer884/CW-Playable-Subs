@@ -1,0 +1,6 @@
+{
+  "name": "<color=Yellow>Revenge Is A Dish... (NATO)</color>",
+  "image": "campaign/images/pact wolfpack 6",
+  "missionLocation": "Off The Faeroe Islands",
+  "briefing": "\nA lone submarine has suddenly attacked and sank several of the cargo ships you were escorting. You have broken off from the convoy to give chase. Teach them a lesson!\n\n<b>Primary Objective:</b>\n- Locate and destroy the enemy submarine.\n"
+}

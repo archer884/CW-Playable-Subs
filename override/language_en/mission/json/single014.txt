@@ -1,0 +1,6 @@
+{
+  "name": "<color=White>Skirmish In The Denmark Strait</color>",
+  "image": "campaign/images/pact surface raiders 2",
+  "missionLocation": "Denmark Strait, near Iceland",
+  "briefing": "You've made contact with a Soviet open-ocean ASW group, including a helicopter carrier, that is attempting to break out into the North Atlantic with intent to hunt our Polaris submarines there. \n\n<b>Primary Objectives:</b>\n- Sink the Moskva.\n"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "<color=Orange>The Lone Sabre</color>",
+  "image": "campaign/images/pact naval 2",
+  "missionLocation": "200 miles due North-East of Reykjavik.",
+  "briefing": "SOSUS reports a large group of contacts at 66°08'12.7\"N 24°56'30.8\"W. You are sent to investigate.\n\n<b>Primary Objectives:</b>\n- Identify and neutralize any enemy forces\n\n<b>Secondary Objectives:</b>\n- Avoid detection\n\n\n\n\n(Mission Submitted By III./JG 2 Oberst. Included with permission.)\n"
+}

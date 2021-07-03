@@ -1,0 +1,6 @@
+{
+  "name": "<color=White>Beating The Odds</color>",
+  "image": "campaign/images/pact naval 2",
+  "missionLocation": "In the vicinity of the North Cape",
+  "briefing": "A lone submarine encounters a massive soviet surface strike group off the North Cape. The centrepiece of the group is every fast attack skippers dream: A Kirov-class battlecruiser.\n\n<b>Primary Objectives:</b>\n- Penetrate the group's ASW defences and sink the Kirov\n\n<b>Secondary Objectives:</b>\n- Survive\n"
+}

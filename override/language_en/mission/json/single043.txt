@@ -1,0 +1,6 @@
+{
+  "name": "<color=Yellow>Convoy Strike (RUS)</color>",
+  "image": "campaign/images/pact surface raiders 2",
+  "missionLocation": "Near Jan Mayen",
+  "briefing": "\nYou have been hiding off of the northern coast of Jan Mayen for several days. A large convoy with escorts is now approaching the Southeast side of the island. They don't know you're here. Take them by surprise!\n\n<b>Primary Objectives:</b>\n- Sink all convoy ships\n\n<b>Secondary Objectives:</b>\n- Sink all escorts\n- Survive\n"
+}

@@ -1,0 +1,6 @@
+{
+  "name": "<color=Green>Hudson Bay Incursion (<b>WORLD MAP REQ'D</b>)</color>",
+  "image": "campaign/images/hudsonbay.jpg",
+  "missionLocation": "Hudson Bay",
+  "briefing": "\nSome rouge submarines have been found in your back yard. SINK THEM !\n\n<b>Primary Objectives:</b>\n- Sink all hostile submarines\n\n<b>Secondary Objectives:</b>\n- Survive\n"
+}

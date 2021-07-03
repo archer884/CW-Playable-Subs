@@ -1,0 +1,6 @@
+{
+  "name": "<color=Orange>Cruising Triumph</color>",
+  "image": "campaign/images/pact surface raiders 3",
+  "missionLocation": "Baltic Sea. 300 miles due East of Bornholm Island.",
+  "briefing": "Swedish radar installation reports a contact at 55°21'20.8\"N 16°59'24.6\"E. You are sent to investigate. As you arrive in the area, hostile forces are on full alert.\n\n<b>Primary Objectives:</b>\n- Identify and engage the Soviet missile cruisers attempting to break out of the Denmark Strait\n\n<b>Secondary Objectives:</b>\n- Engage escort vessels\n\n\n(Mission Submitted By III./JG 2 Oberst. Included with permission.)\n"
+}

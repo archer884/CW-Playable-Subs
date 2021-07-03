@@ -1,0 +1,6 @@
+{
+  "name": "<color=White>Stalking The Red Bear</color>",
+  "image": "campaign/images/under ice",
+  "missionLocation": "Somewhere North of Spitsbergen",
+  "briefing": "Hunt and kill a Soviet Typhoon class boomer and evade its high-tech escorts.\n\n<b>Primary Objectives:</b>\n- Sink the Typhoon\n\n<b>Secondary Objectives:</b>\n- Escape\n"
+}
